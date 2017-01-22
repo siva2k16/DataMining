@@ -1,0 +1,90 @@
+item: ('shoot',) , 0.011
+item: ('everything',) , 0.011
+item: ('something',) , 0.011
+item: ('view',) , 0.011
+item: ('pics',) , 0.011
+item: ('exposure',) , 0.011
+item: ('color',) , 0.011
+item: ('metz',) , 0.011
+item: ('research',) , 0.011
+item: ('flaw',) , 0.011
+item: ('light',) , 0.011
+item: ('i', 'picture') , 0.011
+item: ('i', 'research') , 0.011
+item: ('camera', 'film') , 0.011
+item: ('flash', 'quality') , 0.011
+item: ('i', 'flash') , 0.011
+item: ('options',) , 0.013
+item: ('control',) , 0.013
+item: ('moment',) , 0.013
+item: ('slr',) , 0.013
+item: ('way',) , 0.013
+item: ('auto',) , 0.013
+item: ('photography',) , 0.013
+item: ('controls',) , 0.013
+item: ('picture', 'quality') , 0.013
+item: ('i', 'lens') , 0.013
+item: ('i', 'cameras') , 0.013
+item: ('lcd', 'screen') , 0.013
+item: ('lens', 'viewfinder') , 0.013
+item: ('i', 'battery') , 0.013
+item: ('resolution',) , 0.014
+item: ('photo',) , 0.014
+item: ('review',) , 0.014
+item: ('megapixel',) , 0.014
+item: ('results',) , 0.014
+item: ('problem',) , 0.014
+item: ('cameras', 'g3') , 0.014
+item: ('battery', 'life') , 0.014
+item: ('camera', 'quality') , 0.014
+item: ('settings',) , 0.016
+item: ('screen',) , 0.016
+item: ('thing',) , 0.016
+item: ('price',) , 0.016
+item: ('reviews',) , 0.016
+item: ('shots',) , 0.016
+item: ('i', 'pictures') , 0.016
+item: ('camera', 'features') , 0.016
+item: ('quality', 'g3') , 0.016
+item: ('g3', 'camera', 'canon') , 0.016
+item: ('range',) , 0.017
+item: ('lot',) , 0.017
+item: ('life',) , 0.017
+item: ('i', 'canon') , 0.017
+item: ('i', 'photos') , 0.017
+item: ('i', 'time') , 0.019
+item: ('camera', 'time') , 0.019
+item: ('point',) , 0.021
+item: ('image',) , 0.022
+item: ('zoom',) , 0.022
+item: ('camera', 't') , 0.022
+item: ('viewfinder',) , 0.024
+item: ('mode',) , 0.024
+item: ('card',) , 0.025
+item: ('software',) , 0.025
+item: ('i', 'quality') , 0.025
+item: ('film',) , 0.027
+item: ('shutter',) , 0.027
+item: ('images',) , 0.027
+item: ('camera', 'canon') , 0.027
+item: ('lcd',) , 0.030
+item: ('camera', 'g3') , 0.030
+item: ('g2',) , 0.032
+item: ('battery',) , 0.033
+item: ('picture',) , 0.038
+item: ('lens',) , 0.038
+item: ('canon', 'g3') , 0.038
+item: ('photos',) , 0.039
+item: ('flash',) , 0.039
+item: ('i', 'g3') , 0.041
+item: ('features',) , 0.043
+item: ('cameras',) , 0.051
+item: ('time',) , 0.055
+item: ('pictures',) , 0.060
+item: ('quality',) , 0.062
+item: ('t',) , 0.071
+item: ('canon',) , 0.084
+item: ('i', 'camera') , 0.087
+item: ('g3',) , 0.115
+item: ('i',) , 0.283
+item: ('camera',) , 0.291
